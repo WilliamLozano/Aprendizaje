@@ -21,3 +21,5 @@ if es_primo:
     print(f"el {numero} es un numero primo")
 else:
     print(f"el {numero} no es un numero primo")
+
+
